@@ -1,11 +1,12 @@
 # Course materials for: Geospatial Data Science
-These course materials cover the course held for the first time in spring 2022 at IT University of Copenhagen. Public course page: [https://learnit.itu.dk/local/coursebase/view.php?ciid=940](https://learnit.itu.dk/local/coursebase/view.php?ciid=940)  
+These course materials cover the lectures for the course held for the first time in spring 2022 at IT University of Copenhagen. Public course page: [https://learnit.itu.dk/local/coursebase/view.php?ciid=940](https://learnit.itu.dk/local/coursebase/view.php?ciid=940)  
 Materials were slightly improved and reordered after the course.
+
 
 ## Topics
 ![alt text](docs/images/topics.png "Topics")
 
-**Topics**: 1. Geometric objects · 2. Geospatial data in Python · 3. Choropleth mapping · 4. Spatial weights · 5. Spatial autocorrelation · 6. Spatial clustering · 7. Point pattern analysis · 8. OpenStreetMap and OSMnx · 9. Spatial networks · 10. Bicycle network analysis · 11. Individual mobility · 12. Mobility patterns · 13. Aggregate mobility and urban scaling · 14. Sustainable mobility and geospatial epidemiology
+**Topics**: 1. Geometric objects · 2. Geospatial data in Python · 3. Choropleth mapping · 4. Spatial weights · 5. Spatial autocorrelation · 6. Spatial clustering · 7. Point pattern analysis · 8. OpenStreetMap and OSMnx · 9. Spatial networks · 10. Bicycle networks · 11. Individual mobility · 12. Mobility patterns · 13. Aggregate mobility and urban scaling · 14. Sustainable mobility and geospatial epidemiology
 
 **Prerequisites**: Basics in data science (including statistics, Python and pandas)  
 **Ideal level/program**: 1st year Master in Data Science
@@ -42,12 +43,15 @@ Percentages are approximative.
 
 More sources are referenced within the slides and notebooks.
 
+## Exercise materials and tutorials
+See: [https://github.com/anerv/GDS2022_exercises](https://github.com/anerv/GDS2022_exercises)
+
 ## License
 All materials were used for educational, non-commercial reasons only. Feel free to use as you wish for the same purpose, at your own risk. For other re-use questions please consult the license of the respective source. Our main sources use the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/) so we use it too.
 
 
 ## Credits
 Lectures: [Michael Szell](http://michael.szell.net/)  
-Exercises: Ane Rahbek Vierø & Anastassia Vybornova
+[Exercises and tutorials](https://github.com/anerv/GDS2022_exercises): Ane Rahbek Vierø & Anastassia Vybornova
 
 Thanks to all our main sources for being so helpful and open with your materials! Special thanks to Adéla Sobotkova for helpful discussions and materials concerning syllabus, exam form, and project description, and to Vedran Sekara for slide materials.
