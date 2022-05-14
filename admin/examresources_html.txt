@@ -1,0 +1,57 @@
+<p dir="ltr" style="text-align: left;"></p>
+<p><span style="font-size: 1.5rem;">Example student projects<br></span></p>
+<p>These anonymized old student projects, which received grade 12, are from a similar course (but not the same) from another university. Note that the page requirements were different in that course (they had to write a bit more), but these give you quite
+    a good idea what to do:<br></p>
+<p>https://learnit.itu.dk/mod/folder/view.php?id=157206<br></p>
+<p><br></p>
+<p><span style="font-size: 1.5rem;">Example data sets</span><br></p>
+<p><a href="https://geographicdata.science/book/data/README.html"><span lang="EN-US">https://geographicdata.science/book/data/README.html</span></a></p>
+<p><a href="https://freegisdata.rtwilson.com/" style="font-size: 1rem;"><span lang="EN-US">https://freegisdata.rtwilson.com/</span></a></p>
+<p><span lang="EN-US"></span></p>
+<p><a href="https://geodacenter.github.io/data-and-lab/"><span lang="EN-US">https://geodacenter.github.io/data-and-lab/</span></a><span lang="EN-US"></span></p>
+<p>https://pubmed.ncbi.nlm.nih.gov/31827097/<br></p>
+<p><a href="http://snap.stanford.edu/data/index.html#locnet"><span lang="EN-US">http://snap.stanford.edu/data/index.html#locnet</span></a><span lang="EN-US">&nbsp;(Two data sets of location-based online social networks)</span><span lang="EN-US"></span></p>
+<p><a href="https://wiki.openstreetmap.org/wiki/Downloading_data"><span lang="EN-US">OpenStreetMap</span></a><span lang="EN-US">&nbsp;(data can be accessed through for example OSMnx or from&nbsp;</span><a href="https://download.geofabrik.de/"><span lang="EN-US">Geofabrik</span></a>
+    <span
+        lang="EN-US">,&nbsp;</span><a href="https://download.bbbike.org/osm/"><span lang="EN-US">BBike</span></a><span lang="EN-US">&nbsp;or the Overpass API)</span><span lang="EN-US"></span></p>
+<p><a href="https://www.opendata.dk/"><span lang="EN-US">Opendata.dk</span></a><span lang="EN-US">&nbsp;(open datasets from Danish municipalities)</span></p>
+<p><a href="https://dataforsyningen.dk/"><span lang="EN-US">Dataforsyning.dk</span></a><span lang="EN-US">&nbsp;(official portal for open public spatial data in Denmark. Data are free but you need to create a user to access it)</span></p>
+<p><a href="https://oslobysykkel.no/apne-data">Åpne data - Oslo Bysykkel</a><span lang="EN-US">&nbsp;(open data on city bikes in Oslo)</span></p>
+<p><span lang="EN-US">https://www.nature.com/articles/sdata201889, https://transitfeeds.com/p/rejseplanen/705 (GTFS public transport)<br></span></p>
+<h3><br></h3>
+<h3>Example professional projects</h3>
+<p>Some of these projects took many months of work and would be too big or too polished for an exam submission - their only purpose is to inspire you and give you a possible direction.</p>
+<h5>Research papers</h5>
+<p>LISA:&nbsp;https://learnit.itu.dk/pluginfile.php/318420/mod_resource/content/1/reading05_2.pdf</p>
+<p>Clustering:&nbsp;https://learnit.itu.dk/pluginfile.php/318853/mod_resource/content/1/reading6_1.pdf</p>
+<p>Point patterns: https://learnit.itu.dk/mod/resource/view.php?id=156396<br></p>
+<p>Urban form/taxonomy:&nbsp;<a href="https://journals.sagepub.com/doi/10.1177/23998083211059835">https://journals.sagepub.com/doi/10.1177/23998083211059835</a><br></p>
+<p>Street networks/OSMnx:&nbsp;<a href="https://journals.sagepub.com/doi/abs/10.1177/2399808318784595">https://journals.sagepub.com/doi/abs/10.1177/2399808318784595</a>,&nbsp;https://learnit.itu.dk/mod/resource/view.php?id=156509</p>
+<p>Spatial variation:&nbsp;https://learnit.itu.dk/mod/resource/view.php?id=156395</p>
+<p><br></p>
+<h5>Prototypes / Software</h5>
+<p>http://www.everystreetchallenge.com/</p>
+<p>https://www.juliusingemann.com/sproute</p>
+<p>https://twitter.com/sundellviz/status/1477267611025035265</p>
+<p>https://jamaps.github.io/maps.html</p>
+<p>https://tjukanov.org/</p>
+<p>https://taraskaduk.com/posts/2020-12-06-uber-movement-kyiv/</p>
+<p>https://github.com/kindofdoon/fog_of_war</p>
+<p>https://share.streamlit.io/annefj/15minutescitiesvisualization/main/15minutecity_webpage.py<br></p>
+<h4></h4>
+<h3><br></h3>
+<h3>Useful Python libraries/tools</h3>
+<p>Additional to what you learned in the course.</p>
+<p>https://anitagraser.github.io/movingpandas/<br></p>
+<p>https://udst.github.io/pandana/<br></p>
+<p>http://docs.momepy.org/en/stable/<br></p>
+<p><a target="_blank" href="https://github.com/HTenkanen/pyrosm">https://github.com/HTenkanen/pyrosm</a><br></p>
+<p><a target="_blank" href="https://github.com/scikit-mobility/scikit-mobility">https://github.com/scikit-mobility/scikit-mobility</a><br></p>
+<p>https://holoviz.org/<br></p>
+<p>https://gregorhd.github.io/osm2bokehserver-pt1/<br></p>
+<p>https://www.unfolded.ai/ |&nbsp;https://deck.gl/ |&nbsp;https://kepler.gl/<br></p>
+<p><a href="https://rasterio.readthedocs.io/en/latest/">https://rasterio.readthedocs.io/en/latest/</a>&nbsp; &nbsp;(for introduction to how to use see&nbsp;<a href="https://autogis-site.readthedocs.io/en/latest/lessons/Raster/overview.html">https://autogis-site.readthedocs.io/en/latest/lessons/Raster/overview.html</a>&nbsp;or&nbsp;
+    <a
+        href="https://geobgu.xyz/py/rasterio.html">https://geobgu.xyz/py/rasterio.html</a>)<br></p>
+<p>https://github.com/UDST<br></p>
+<p></p>
