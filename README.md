@@ -30,16 +30,17 @@ Percentages are approximative.
 ### Other major sources and further materials
 
 * Rey, Arribas-Bel, Wolf: [Geographic Data Science with Python](https://geographicdata.science/book/intro.html)
+* Prapas: [Analyze Geospatial Data in Python: GeoPandas and Shapely](https://www.learndatasci.com/tutorials/geospatial-data-python-geopandas-shapely/)
 * Gimond: [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html)
 * Tan, Steinbach, Kumar: Introduction to Data Mining
 * Timaite, Lovelace: [Getting started with open data on transport infrastructure](https://udsleeds.github.io/openinfra/articles/openinfra.html)
 * Rodrigue: [The Geography of Transport Systems](https://transportgeography.org/)
-* Barthelemy: Spatial Networks
+* Barthelemy: [Spatial Networks](https://link.springer.com/book/10.1007/978-3-030-94106-2)
 * Barbosa et al: [Human mobility: Models and applications](https://doi.org/10.1016/j.physrep.2018.01.001)
 * Mobility papers: [Song et al](https://www.science.org/doi/abs/10.1126/science.1177170), [Szell et al](https://www.nature.com/articles/srep00457), [Pappalardo et al](https://www.nature.com/articles/ncomms9166), [Song et al](https://www.nature.com/articles/nphys1760), [De Montjoye et al](https://www.nature.com/articles/srep01376), [Schneider et al](https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2013.0246), [Sekara et al](https://www.pnas.org/content/113/36/9977.short), [Simini et al](https://www.nature.com/articles/nature10856), [Szell et al](https://www.nature.com/articles/s41598-022-10783-y)
 * Kapp: [Privacy-preserving techniques and how they apply to mobility data](https://alexandrakapp.blog/2022/03/14/privacy-preserving-techniques-and-how-they-apply-to-mobility-data/)
-* Batty: The New Science of Cities
-* Barthelemy: The Structure and Dynamics of Cities
+* Batty: [The New Science of Cities](https://mitpress.mit.edu/books/new-science-cities)
+* Barthelemy: [The Structure and Dynamics of Cities](https://www.cambridge.org/core/books/structure-and-dynamics-of-cities/50359353B081D0A38928961FE16FB2FD)
 * OECD: [Transport Strategies for Net-Zero Systems by Design](https://www.oecd.org/environment/transport-strategies-for-net-zero-systems-by-design-0a20f779-en.htm)
 
 More sources are referenced within the slides and notebooks.
