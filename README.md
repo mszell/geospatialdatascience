@@ -41,7 +41,9 @@ Percentages are approximative.
 * Kapp: [Privacy-preserving techniques and how they apply to mobility data](https://alexandrakapp.blog/2022/03/14/privacy-preserving-techniques-and-how-they-apply-to-mobility-data/)
 * Batty: [The New Science of Cities](https://mitpress.mit.edu/books/new-science-cities)
 * Barthelemy: [The Structure and Dynamics of Cities](https://www.cambridge.org/core/books/structure-and-dynamics-of-cities/50359353B081D0A38928961FE16FB2FD)
+* Tenkanen: [Spatial data science for sustainable development](https://sustainability-gis.readthedocs.io/en/latest/index.html)
 * OECD: [Transport Strategies for Net-Zero Systems by Design](https://www.oecd.org/environment/transport-strategies-for-net-zero-systems-by-design-0a20f779-en.htm)
+* [The GDSL Big List of Teaching Links](https://github.com/GDSL-UL/Teaching_Links)
 
 More sources are referenced within the slides and notebooks.
 
