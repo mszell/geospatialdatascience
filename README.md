@@ -28,6 +28,7 @@ Percentages are approximative.
 * [1%] Tenkanen: [pyrosm](https://pyrosm.readthedocs.io/en/latest/index.html)
 * [2%] Gaboardo, Rey, Lumnitz: [spaghetti](https://pysal.org/spaghetti/)
 * [2%] Pappalardo: [scikit-mobility](https://github.com/scikit-mobility/tutorials)
+* [25%] Alessandretti, Szell: [Urban Mobility](https://arxiv.org/abs/2211.00355) (developed after the course)
 
 ### Other major sources and further materials
 
