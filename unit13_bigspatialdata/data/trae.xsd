@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns:fme="http://www.safe.com/gml/fme" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.safe.com/gml/fme" elementFormDefault="qualified">
+<import namespace="http://www.opengis.net/gml/3.2" schemaLocation="http://schemas.opengis.net/gml/3.2.1/gml.xsd"/>
+<element name="trae" type="fme:traeType" substitutionGroup="gml:AbstractFeature"/>
+<complexType name="traeType">
+<complexContent>
+<extension base="gml:AbstractFeatureType">
+<sequence>
+<element name="objectid" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="3999"/>
+</restriction>
+</simpleType>
+</element>
+<element name="id_lokalid" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="3999"/>
+</restriction>
+</simpleType>
+</element>
+<element name="id_namespace" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="3999"/>
+</restriction>
+</simpleType>
+</element>
+<element name="tempid" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="3999"/>
+</restriction>
+</simpleType>
+</element>
+<element name="status" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="3999"/>
+</restriction>
+</simpleType>
+</element>
+<element name="geometristatus" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="3999"/>
+</restriction>
+</simpleType>
+</element>
+<element name="registreringsspecifikation" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="3999"/>
+</restriction>
+</simpleType>
+</element>
+<element name="dataansvar" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="3999"/>
+</restriction>
+</simpleType>
+</element>
+<element name="forretningshaendelse" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="3999"/>
+</restriction>
+</simpleType>
+</element>
+<element name="forretningsomraade" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="3999"/>
+</restriction>
+</simpleType>
+</element>
+<element name="forretningsproces" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="3999"/>
+</restriction>
+</simpleType>
+</element>
+<element name="registreringsaktoer" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="3999"/>
+</restriction>
+</simpleType>
+</element>
+<element name="registreringfra" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="20"/>
+</restriction>
+</simpleType>
+</element>
+<element name="registreringtil" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="20"/>
+</restriction>
+</simpleType>
+</element>
+<element name="virkningsaktoer" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="3999"/>
+</restriction>
+</simpleType>
+</element>
+<element name="virkningfra" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="20"/>
+</restriction>
+</simpleType>
+</element>
+<element name="virkningtil" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="20"/>
+</restriction>
+</simpleType>
+</element>
+<element name="plannoejagtighed" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="3999"/>
+</restriction>
+</simpleType>
+</element>
+<element name="planstedfaestelsesmetode" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="3999"/>
+</restriction>
+</simpleType>
+</element>
+<element name="vertikalnoejagtighed" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="3999"/>
+</restriction>
+</simpleType>
+</element>
+<element name="vertikalstedfaestelsesmetode" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="3999"/>
+</restriction>
+</simpleType>
+</element>
+<element name="applikation" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="3999"/>
+</restriction>
+</simpleType>
+</element>
+<element name="kommentar" minOccurs="0">
+<simpleType>
+<restriction base="string">
+<maxLength value="3999"/>
+</restriction>
+</simpleType>
+</element>
+<element name="gmlid" minOccurs="0" type="string"/>
+<element ref="gml:pointProperty" minOccurs="0"/>
+<element ref="gml:multiPointProperty" minOccurs="0"/>
+</sequence>
+</extension>
+</complexContent>
+</complexType>
+</schema>
