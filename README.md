@@ -62,6 +62,10 @@ The course materials were adapted/inspired from a number of sources, *standing o
 
 More sources are referenced within the slides and notebooks.
 
+## Python environment
+
+All course Jupyter notebooks and exercises use the [GDS environment](https://darribas.org/gds_env/) by Arribas-Bel, unless otherwise specified. See the [official site](https://darribas.org/gds_env/guides/) for installation instructions or the [guide](https://github.com/mszell/geospatialdatascience/blob/2023/admin/materials/preparations_installs.md) given to the course students.
+
 ## License
 
 All materials were used for educational, non-commercial reasons only. Feel free to use as you wish for the same purpose, at your own risk. For other re-use questions please consult the license of the respective source. Our main sources use the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/) so we use it too.
