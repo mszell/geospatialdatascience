@@ -3,8 +3,8 @@
 These course materials cover the lectures for the course held for the first time in spring 2022 at IT University of Copenhagen. Newest version of the course materials is from spring 2023. Public course page: [https://learnit.itu.dk/local/coursebase/view.php?ciid=1170&view=public](https://learnit.itu.dk/local/coursebase/view.php?ciid=1170&view=public)  
 Materials were slightly improved and reordered after the course.
 
-**Prerequisites**: Basics in data science (including statistics, Python and pandas)  
-**Ideal level/program**: 1st year Master in Data Science
+**Prerequisites**: Basics in data science (including statistics, Python and pandas).
+**Ideal level/program**: 1st year Master in Data Science.
 
 ## Topics
 
@@ -24,7 +24,7 @@ Get in touch if you want access to exercise solutions (not shared publicly).
 
 ## Course readings & resources
 
-See full list of student readings and resources [here](https://github.com/mszell/geospatialdatascience/blob/2023/course_readings.md)
+See full list of student readings and resources [here](https://github.com/mszell/geospatialdatascience/blob/2023/course_readings.md).
 
 ## Sources
 
@@ -68,8 +68,8 @@ All materials were used for educational, non-commercial reasons only. Feel free 
 
 ## Credits
 
-Lectures: [Michael Szell](http://michael.szell.net/), [Ane Rahbek Vierø](<https://anerv.github.io/>) and Marina Georgati
+Lectures: [Michael Szell](http://michael.szell.net/), [Ane Rahbek Vierø](<https://anerv.github.io/>) and Marina Georgati.
 
-[Exercises and tutorials](https://github.com/anerv/GDS_exercises): Ane Rahbek Vierø, Anastassia Vybornova & Jan Leonard Schelhaas
+[Exercises and tutorials](https://github.com/anerv/GDS_exercises): Ane Rahbek Vierø, Anastassia Vybornova & Jan Leonard Schelhaas.
 
 Thanks to all our main sources for being so helpful and open with your materials! Special thanks to Adéla Sobotkova for helpful discussions and materials concerning syllabus, exam form, and project description, and to Vedran Sekara for slide materials.
