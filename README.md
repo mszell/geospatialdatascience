@@ -68,7 +68,7 @@ All materials were used for educational, non-commercial reasons only. Feel free 
 
 ## Credits
 
-Lectures: [Michael Szell](http://michael.szell.net/) & [Ane Rahbek Vierø](<https://anerv.github.io/>)
+Lectures: [Michael Szell](http://michael.szell.net/), [Ane Rahbek Vierø](<https://anerv.github.io/>) and Marina Georgati
 
 [Exercises and tutorials](https://github.com/anerv/GDS_exercises): Ane Rahbek Vierø, Anastassia Vybornova & Jan Leonard Schelhaas
 
