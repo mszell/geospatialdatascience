@@ -198,12 +198,4 @@
 </div>
 <br>
 
-<div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em;">
-  
-  <div class="csl-entry">Smith, M.J., Goodchild, M.F., Longley, P.A., n.d. Geospatial Analysis 6th Edition [WWW Document]. URL <a href="https://spatialanalysisonline.com/HTML/index.html">https://spatialanalysisonline.com/HTML/index.html</a> (accessed 5.28.23).</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=webpage&amp;rft.title=Geospatial%20Analysis%206th%20Edition&amp;rft.identifier=https%3A%2F%2Fspatialanalysisonline.com%2FHTML%2Findex.html&amp;rft.aufirst=Michael%20J&amp;rft.aulast=Smith&amp;rft.au=Michael%20J%20Smith&amp;rft.au=Michael%20F%20Goodchild&amp;rft.au=Paul%20A%20Longley"></span>
-
-</div>
-
-<br>
 See lecture sldies for additional links and resources.
