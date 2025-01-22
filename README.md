@@ -50,6 +50,14 @@ Percentages are approximative.
 
 More sources are referenced within the slides and notebooks.
 
+## Offshoots
+Publications and resources developed after the course, derived or inspired by it:
+
+* Vierø, Szell: [Teaching spatial data science](https://journals.aau.dk/index.php/gfp/article/view/8383)
+* Alessandretti, Szell: [Urban Mobility](https://arxiv.org/abs/2211.00355)
+* [GDS 2023 branch](https://github.com/mszell/geospatialdatascience/tree/2023)
+* [Geospatial Data Science Tutorial](https://github.com/NERDSITU/gdstutorial) (the course condensed to 3 hours)
+
 ## License
 All materials were used for educational, non-commercial reasons only. Feel free to use as you wish for the same purpose, at your own risk. For other re-use questions please consult the license of the respective source. Our main sources use the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/) so we use it too.
 
