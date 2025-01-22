@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Please cite these teaching materials as below."
+authors:
+- family-names: "Szell"
+  given-names: "Michael"
+  orcid: "https://orcid.org/0000-0003-3022-2483"
+title: "Geospatial Data Science"
+version: 2022
+date-released: 2022-05-22
+url: "https://github.com/mszell/geospatialdatascience"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Vierø"
+    given-names: "Ane Rahbek"
+    orcid: "https://orcid.org/0000-0002-2404-7271"
+  - family-names: "Szell"
+    given-names: "Michael"
+    orcid: "https://orcid.org/0000-0003-3022-2483"
+  doi: "10.54337/ojs.perspektiv.v23i44.8383"
+  journal: "Geoforum Perspektiv"
+  month: 12
+  start: 52 # First page number
+  end: 57 # Last page number
+  title: "Teaching spatial data science"
+  issue: 44
+  volume: 23
+  year: 2024
