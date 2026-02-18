@@ -1,0 +1,1 @@
+To get the files folder, unzip: ../materials/lecture04_lecturematerials.zip
