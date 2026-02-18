@@ -1,6 +1,5 @@
 # Course materials for: Geospatial Data Science
-These course materials cover the lectures for the course held every spring since 2022 at IT University of Copenhagen. Public course page: [https://learnit.itu.dk/local/coursebase/view.php?ciid=940](https://learnit.itu.dk/local/coursebase/view.php?ciid=940)  
-Materials were improved every year. Last update: Spring 2026
+These course materials cover the lectures for the course held every spring since 2022 at IT University of Copenhagen. Last update: [Spring 2026](https://learnit.itu.dk/local/coursebase/view.php?ciid=1910)
 
 **Prerequisites**: Basics in data science (including statistics, Python and pandas)  
 **Ideal level/program**: 1st year Master in Data Science
@@ -19,9 +18,18 @@ See: [https://github.com/anerv/GDS2022_exercises](https://github.com/anerv/GDS20
 
 ## Python environment
 
-All course Jupyter notebooks and exercises use a Python environment installed via [Pixi](https://pixi.prefix.dev/latest/). See the [installation instructions](admin/materials/installation/preparations.md) given to the course students.
+All course Jupyter notebooks and exercises use a Python environment installed via [Pixi](https://pixi.prefix.dev/latest/). See the [installation instructions](materials/installation/preparations.md) given to the course students. The teacher uses the same setup.
 
 For full reproducibility, the `pixi.lock` and `pixi.toml` files used in the course are provided in the [`admin/pixienv`](admin/pixienv) folder.
+
+## Folder structure
+[admin/](admin/): Auxiliary files for the course manager used to create materials, manage the course, or to set up the course page. Not distributed to students.
+
+[docs/](docs/): Files related to this github repo.
+
+[materials/](materials/): Course materials distributed to students during the course, such as installation instructions.
+
+`unit[XX]_[name]/`, where `[XX]` is `01`,..,`15`:  The 15 units. The files in the `materials` sub-folders are distributed to students. The `.key` files are used by the instructor to create the `.pdf` slides.
 
 ## Sources
 The course materials were adapted/inspired from a number of sources, *standing on the shoulders of giants*, ordered by appearance in the course:
