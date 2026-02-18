@@ -1,6 +1,6 @@
 # Course materials for: Geospatial Data Science
-These course materials cover the lectures for the course held for the first time in spring 2022 at IT University of Copenhagen. Public course page: [https://learnit.itu.dk/local/coursebase/view.php?ciid=940](https://learnit.itu.dk/local/coursebase/view.php?ciid=940)  
-Materials were slightly improved and reordered after the course.
+These course materials cover the lectures for the course held every spring since 2022 at IT University of Copenhagen. Public course page: [https://learnit.itu.dk/local/coursebase/view.php?ciid=940](https://learnit.itu.dk/local/coursebase/view.php?ciid=940)  
+Materials were improved every year. Last update: Spring 2026
 
 **Prerequisites**: Basics in data science (including statistics, Python and pandas)  
 **Ideal level/program**: 1st year Master in Data Science
@@ -8,7 +8,7 @@ Materials were slightly improved and reordered after the course.
 ## Topics
 ![alt text](docs/images/topics.png "Topics")
 
-· 1. Geometric objects · 2. Geospatial data in Python · 3. Choropleth mapping · 4. Spatial weights · 5. Spatial autocorrelation · 6. Spatial clustering · 7. Point pattern analysis · 8. OpenStreetMap and OSMnx · 9. Spatial networks · 10. Bicycle networks · 11. Individual mobility · 12. Mobility patterns · 13. Aggregate mobility and urban scaling · 14. Sustainable mobility and geospatial epidemiology ·
+· 1. Geometric objects · 2. Geospatial data in Python · 3. Choropleth mapping · 4. Big spatial data · 5. Spatial weights · 6. Spatial autocorrelation · 7. Spatial clustering · 8. Point pattern analysis · 9. OpenStreetMap and OSMnx · 10. Spatial networks · 11. Bicycle networks · 12. Individual mobility · 13. Mobility patterns · 14. Aggregate mobility and urban scaling · 15. Sustainable mobility and geospatial epidemiology ·
 
 
 ## Exercise materials and tutorials
@@ -16,6 +16,12 @@ See: [https://github.com/anerv/GDS2022_exercises](https://github.com/anerv/GDS20
 
 ## Schedule
 ![alt text](docs/images/courseschedule.png "Course Schedule")
+
+## Python environment
+
+All course Jupyter notebooks and exercises use a Python environment installed via [Pixi](https://pixi.prefix.dev/latest/). See the [installation instructions](admin/materials/installation/preparations.md) given to the course students.
+
+For full reproducibility, the `pixi.lock` and `pixi.toml` files used in the course are provided in the [`admin/pixienv`](admin/pixienv) folder.
 
 ## Sources
 The course materials were adapted/inspired from a number of sources, *standing on the shoulders of giants*, ordered by appearance in the course:
@@ -63,7 +69,7 @@ All materials were used for educational, non-commercial reasons only. Feel free 
 
 
 ## Credits
-Lectures: [Michael Szell](http://michael.szell.net/)  
-[Exercises and tutorials](https://github.com/anerv/GDS2022_exercises): Ane Rahbek Vierø & Anastassia Vybornova
+Lectures: [Michael Szell](http://michael.szell.net/) and [Ane Rahbek Vierø](https://anerv.github.io/)  
+[Exercises and tutorials](https://github.com/anerv/GDS2022_exercises): [Ane Rahbek Vierø](https://anerv.github.io/) & Anastassia Vybornova
 
-Thanks to all our main sources for being so helpful and open with your materials! Special thanks to Adéla Sobotkova for helpful discussions and materials concerning syllabus, exam form, and project description, and to Vedran Sekara for slide materials.
+Thanks to all our main sources for being so helpful and open with your materials! Special thanks to [Clément Sebastiao](https://csebastiao.github.io/) for many slide improvements, Manuel Knepper for the Pixi installation instructions, Adéla Sobotkova for helpful discussions and materials concerning syllabus, exam form, and project description, and to Vedran Sekara for slide materials.
