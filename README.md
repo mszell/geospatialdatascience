@@ -5,7 +5,7 @@ These course materials cover the lectures for the course held every spring since
 **Ideal level/program**: 1st year Master in Data Science
 
 ## Topics
-![alt text](docs/images/topics.png "Topics")
+![alt text](docs/images/topics.jpg "Topics")
 
 · 1. Geometric objects · 2. Geospatial data in Python · 3. Choropleth mapping · 4. Big spatial data · 5. Spatial weights · 6. Spatial autocorrelation · 7. Spatial clustering · 8. Point pattern analysis · 9. OpenStreetMap and OSMnx · 10. Spatial networks · 11. Bicycle networks · 12. Individual mobility · 13. Mobility patterns · 14. Aggregate mobility and urban scaling · 15. Sustainable mobility and geospatial epidemiology ·
 
