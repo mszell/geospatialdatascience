@@ -9,7 +9,7 @@ Pixi is a package management tool like conda, but *much* faster.
 ## 2. Create Pixi workspace and environment for the course
 
 Navigate to whatever directory you want to use for the course. Place the [`gds_py.yml`](gds_py.yml)
-file there. Open a terminal window in that directory and execute `pixi init \--import gds_py.yml`. This sets up a Pixi workspace and environment in that directory, with all the dependencies that you need for the course.
+file there. Open a terminal window in that directory and execute `pixi init --import gds_py.yml`. This sets up a Pixi workspace and environment in that directory, with all the dependencies that you need for the course.
 
 ## 3. Install dependencies and start Jupyter Lab
 

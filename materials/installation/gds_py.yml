@@ -25,6 +25,7 @@ dependencies:
   - geopy
   - gstools
   - h3-py
+  - haversine
   - hdbscan
   - ipyleaflet
   - ipympl
@@ -33,6 +34,7 @@ dependencies:
   - jupytext
   - legendgram
   - lxml
+  - matplotlib-scalebar
   - momepy
   - nbdime
   - netcdf4
@@ -77,4 +79,3 @@ dependencies:
   - matplotlib-scalebar
   - pytest-cov
   - pytest-tornasync
-#gds_env_version: 8.0
